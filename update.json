@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Lanzamiento inicial de la consola administrativa.",
+  "pubkey": "AQUÍ_PEGARÁS_LA_CLAVE_PÚBLICA_QUE_TE_DIO_TAURI",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "AQUÍ_IRÁ_LA_FIRMA_DE_TU_EXE",
+      "url": "https://github.com/TU_USUARIO/db-launcher-updates/releases/download/v0.1.0/Launcher_0.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
